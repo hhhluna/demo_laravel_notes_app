@@ -1,1 +1,1 @@
-# demo_laravel_notes_app
+# Notes App Laravel Beginner Project 
